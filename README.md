@@ -1,7 +1,9 @@
 # byzanlink-tokenized-equity
 Byzanlink: Tokenized Equity Breakthrough - Bridging Capital Markets
-![Byzanlink Banner](HQK7ILxbIAAtI6P.jpg)
+![Byzanlink Banner](HQK7ILxbIAAtl6P.jpg)
+
 ---
+
 ### Key Features
 
 * **On-Chain Liquidity**
